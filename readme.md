@@ -1,5 +1,9 @@
 # ES6
 
+ECMAScript 6 (atau ES6) adalah versi terbaru dari standar JavaScript yang dikembangkan oleh ECMA International. ES6 menambahkan banyak fitur baru dan perbaikan pada bahasa JavaScript, seperti Arrow Function, Template Literals, Destructuring, Spread Operator, dan lainnya. ES6 juga memperkenalkan module, class, dan pengenalan variabel let dan const yang membuat pemrograman JavaScript lebih mudah dan efisien.
+
+Penggunaan ES6 saat ini sangat populer dan banyak digunakan dalam pengembangan aplikasi web modern. Dalam beberapa tahun terakhir, banyak browser dan JavaScript runtime telah menambahkan dukungan penuh untuk ES6, sehingga membuat ES6 menjadi standar utama dalam pengembangan aplikasi web.
+
 ### Latihan
 
 Berikut adalah beberapa latihan untuk mengasah pemahaman Anda tentang ES6:
